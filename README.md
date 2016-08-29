@@ -1,1 +1,2 @@
-![simulator screen shot aug 29 2016 3 14 51 pm](https://cloud.githubusercontent.com/assets/18044565/18047659/9d28af8e-6dfb-11e6-8f99-b0b8c2163145.png)
+![simulator screen shot aug 29 2016 3 09 17 pm](https://cloud.githubusercontent.com/assets/18044565/18047684/c284a08a-6dfb-11e6-9b51-b749df62de83.png)
+
